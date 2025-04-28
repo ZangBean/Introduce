@@ -14,13 +14,16 @@ Chào các bạn! Mình là **Trường Giang**, một lập trình viên với 
 ## 💻 Kỹ năng
 - **Ngôn ngữ lập trình**: Java, JavaScript, HTML, CSS, SQL
 - **Frameworks & Libraries**: Spring Boot, Angular, jQuery
-- **Công cụ và phần mềm**: Eclipse, IntelliJ IDEA, Git, Docker
+
+## 🌍 Ngoại ngữ
+- **Tiếng Anh**: Mình có khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng Anh [B1].
+- **Tiếng Nhật**: Mình đang học và nâng cao khả năng giao tiếp trong môi trường công sở và kỹ thuật[N5].
 
 ## 📚 Học hỏi và phát triển
 Mình luôn tìm kiếm cơ hội học hỏi và phát triển bản thân qua các dự án thực tế. Mình tin rằng công nghệ luôn thay đổi và việc cập nhật kiến thức là rất quan trọng.
 
 ## 💬 Liên hệ
-- **Email**: [Trường Giang - Email]zangbin2521@gmail.com
+- **Email**: zangbin2521@gmail.com
 - **Facebook**: [Trường Giang - FaceBook](https://www.facebook.com/Zangbin)
 - **GitHub**: [Trường Giang - GitHub](https://github.com/ZangBean)
 
