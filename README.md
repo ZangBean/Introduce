@@ -20,8 +20,8 @@ Chào các bạn! Mình là **Trường Giang**, một lập trình viên với 
 Mình luôn tìm kiếm cơ hội học hỏi và phát triển bản thân qua các dự án thực tế. Mình tin rằng công nghệ luôn thay đổi và việc cập nhật kiến thức là rất quan trọng.
 
 ## 💬 Liên hệ
-- **Email**: truonggiang@example.com
-- **LinkedIn**: [Trường Giang - LinkedIn](https://www.linkedin.com/in/truonggiang)
-- **GitHub**: [Trường Giang - GitHub](https://github.com/truonggiang)
+- **Email**: [Trường Giang - Email]zangbin2521@gmail.com
+- **Facebook**: [Trường Giang - FaceBook](https://www.facebook.com/Zangbin)
+- **GitHub**: [Trường Giang - GitHub](https://github.com/ZangBean)
 
 Cảm ơn các bạn đã đọc! Nếu bạn có bất kỳ câu hỏi nào, đừng ngần ngại liên hệ với mình.
