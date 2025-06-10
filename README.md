@@ -1,6 +1,6 @@
 # Trường Giang - Giới thiệu bản thân
 
-Chào các bạn! Mình là **Trường Giang**, một lập trình viên với đam mê trong lĩnh vực phát triển phần mềm. Dưới đây là một số thông tin cơ bản về mình.
+Mình là **Trường Giang**, một lập trình viên với đam mê trong lĩnh vực phát triển phần mềm. Dưới đây là một số thông tin cơ bản về mình.
 
 ## 🌱 Kinh nghiệm và kỹ năng
 - **Lập trình Web**: Với kinh nghiệm làm việc với các công nghệ như **Java**, **Spring Boot**, **Angular**, mình đã xây dựng và phát triển các ứng dụng web mạnh mẽ.
@@ -13,11 +13,11 @@ Chào các bạn! Mình là **Trường Giang**, một lập trình viên với 
 
 ## 💻 Kỹ năng
 - **Ngôn ngữ lập trình**: Java, JavaScript, HTML, CSS, SQL
-- **Frameworks & Libraries**: Spring Boot, Angular, jQuery
+- **Frameworks & Libraries**: Spring Boot, Angular
 
 ## 🌍 Ngoại ngữ
 - **Tiếng Anh**: Mình có khả năng đọc hiểu tài liệu kỹ thuật bằng tiếng Anh [B1].
-- **Tiếng Nhật**: Mình đang học và nâng cao khả năng giao tiếp trong môi trường công sở và kỹ thuật[N5].
+- **Tiếng Nhật**: Mình đang học và nâng cao khả năng giao tiếp trong môi trường công sở và kỹ thuật[N5+].
 
 ## 📚 Học hỏi và phát triển
 Mình luôn tìm kiếm cơ hội học hỏi và phát triển bản thân qua các dự án thực tế. Mình tin rằng công nghệ luôn thay đổi và việc cập nhật kiến thức là rất quan trọng.
